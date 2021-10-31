@@ -19,6 +19,17 @@ Use the function ``hello`` to create a message::
     'Hello, Joe!'
 
 
+Scripts
+=======
+
+Use the script ``hello`` to display a message::
+
+    $ hello
+    Hello, World!
+    $ hello Joe
+    Hello, Joe!
+
+
 Tests
 =====
 

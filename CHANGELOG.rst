@@ -8,3 +8,5 @@ Changelog
 - Add function ``hello``.
 
 - Add tests.
+
+- Add script ``hello``.
