@@ -6,3 +6,5 @@ Changelog
 ------------------
 
 - Add function ``hello``.
+
+- Add tests.

@@ -17,3 +17,11 @@ Use the function ``hello`` to create a message::
     'Hello, World!'
     >>> hello("Joe")
     'Hello, Joe!'
+
+
+Tests
+=====
+
+Use the following command to run the tests::
+
+    $ python -m unittest
