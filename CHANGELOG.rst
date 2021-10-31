@@ -10,3 +10,5 @@ Changelog
 - Add tests.
 
 - Add script ``hello``.
+
+- Add buildout.

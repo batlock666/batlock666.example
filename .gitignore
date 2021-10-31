@@ -160,3 +160,5 @@ tags
 [._]*.un~
 
 ### Project ###
+# Buildout
+bin/

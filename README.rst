@@ -36,3 +36,12 @@ Tests
 Use the following command to run the tests::
 
     $ python -m unittest
+
+
+Development
+===========
+
+Use the following commands to create and run the buildout::
+
+    $ python bootstrap.py
+    $ venv/bin/buildout
