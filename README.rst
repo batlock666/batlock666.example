@@ -3,3 +3,5 @@
 ======================
 
 An example package.
+
+.. contents::
