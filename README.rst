@@ -27,6 +27,14 @@ Development
     $ venv/bin/python setup.py develop
 
 
+Tests
+=====
+
+Use the following command to run the tests::
+
+    $ venv/bin/python -m unittest
+
+
 Tools
 =====
 
