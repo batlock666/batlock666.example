@@ -42,4 +42,7 @@ setup(
     package_dir={"": "src"},
     zip_safe=False,
     install_requires=[],
+    entry_points={
+        "console_scripts": ["hello=batlock666.example.scripts:hello"],
+    },
 )
