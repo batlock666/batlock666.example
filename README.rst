@@ -37,3 +37,11 @@ Tools
 Enforce the code style guide::
 
     $ venv/bin/flake8
+
+
+``check-manifest``
+------------------
+
+Check ``MANIFEST.in`` for completeness::
+
+    $ venv/bin/check-manifest
