@@ -1,0 +1,16 @@
+[flake8]
+ignore =
+    D200
+
+exclude =
+    __pycache__
+    tmp
+    venv
+
+max-line-length = 80
+
+; flake8-import-order
+import-order-style = pep8
+
+; flake8-quotes
+inline-quotes = double

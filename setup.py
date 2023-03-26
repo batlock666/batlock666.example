@@ -1,3 +1,5 @@
+# NOQA: D100
+
 import os
 
 from setuptools import find_packages
@@ -26,7 +28,7 @@ setup(
         "Development Status :: 1 - Planning",
         "Environment :: Console",
         "Intended Audience :: Developers",
-        "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+        "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",  # NOQA: E501
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 3 :: Only",
         "Topic :: Software Development :: Libraries :: Python Modules",

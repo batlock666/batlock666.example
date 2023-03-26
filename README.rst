@@ -25,3 +25,15 @@ Development
 4. Install package ``batlock666.example`` in development mode::
 
     $ venv/bin/python setup.py develop
+
+
+Tools
+=====
+
+
+``flake8``
+----------
+
+Enforce the code style guide::
+
+    $ venv/bin/flake8
